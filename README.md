@@ -1,6 +1,6 @@
 ## Sabbir Ahamed Saown
 
-Research Software Engineer, University of Oxford · MSc Data Science, London South Bank University · London
+Research Software Engineer, University of Oxford · MSc Data Science, LSBU · London
 
 [![Website](https://img.shields.io/badge/Website-saowns02.github.io-24292F?style=flat-square&logo=googlechrome&logoColor=white)](https://saowns02.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabbir%20Saown-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-saown/)
