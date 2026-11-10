@@ -1,4 +1,4 @@
-## Sabbir Ahamed Saown
+## Sabbir Saown
 
 Research Software Engineer, University of Oxford · MSc Data Science, LSBU · London
 
