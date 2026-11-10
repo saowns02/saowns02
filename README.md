@@ -9,7 +9,8 @@ Research Software Engineer, University of Oxford · MSc Data Science, LSBU · Lo
 
 - **Research Software Engineer, University of Oxford.** LLM pipelines that code historical variables for the [Seshat Global History Databank](https://seshat-db.com/), validated against expert codings.
 - **Programming Tutor, London South Bank University.**
-- **Education.** MSc Data Science (2026 to 2028) and BSc Computer Science (First Class), London South Bank University. AWS Certified.
+- **Operations Supervisor, Royal Opera House**
+- **Software Engineer, South Bank Racing**
 
 ### Selected projects
 
@@ -28,7 +29,7 @@ Research Software Engineer, University of Oxford · MSc Data Science, LSBU · Lo
 **Languages:** Python, JavaScript, SQL, Dart<br>
 **Data and ML:** pandas, scikit-learn, PyTorch, Hugging Face, Plotly, Power BI<br>
 **Web and apps:** React, Streamlit, Flask, FastAPI, Flutter<br>
-**Cloud and data:** AWS, PostgreSQL, PostGIS, Git## Hi there 👋
+**Cloud and data:** AWS, PostgreSQL, PostGIS, Git.
 
 <!--
 **saowns02/saowns02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
